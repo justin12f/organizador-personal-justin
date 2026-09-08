@@ -55,3 +55,10 @@ Las dependencias del proyecto estan registradas en `requirements.txt`:
 ## Autor
 
 Justin (cuenta de GitHub: justin12f) - Universidad Iberoamericana Leon.
+
+## Estado
+
+Proyecto en etapa inicial. Actualmente contiene unicamente la estructura base,
+la documentacion inicial y la configuracion del entorno de trabajo. Las
+funcionalidades descritas en `docs/funcionalidades.md` todavia no estan
+implementadas.
