@@ -62,3 +62,8 @@ Proyecto en etapa inicial. Actualmente contiene unicamente la estructura base,
 la documentacion inicial y la configuracion del entorno de trabajo. Las
 funcionalidades descritas en `docs/funcionalidades.md` todavia no estan
 implementadas.
+
+## Colaboración
+Este proyecto acepta contribuciones mediante fork y Pull Request. Antes de 
+proponer un cambio, crea una rama específica para tu aportación y describe 
+claramente qué modifica tu Pull Request.
