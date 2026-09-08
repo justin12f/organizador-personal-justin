@@ -7,3 +7,4 @@ Lista de funcionalidades que se planea implementar en el Organizador Personal.
 - Modificar tareas.
 - Marcar tareas como terminadas.
 - Registrar notas.
+- Programar recordatorios con fecha y hora para las tareas pendientes.
